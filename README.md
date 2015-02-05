@@ -1,16 +1,33 @@
-# Indian StartUps Hiring
+##Indian StartUps Hiring
 This repo will contain a readme file which will contain list of startups hiring in India
 
-1. 10Times (Noida) - http://10Times.com - Looking for VP to entry positions in Technology, Business Development, Sales and Marketing.
-2. 24x7Table (Gurgaon) - 24x7Table.com ~ Dining.Evolved - Looking for  Python Developer for renowned startup -  Android Developer - Graphic Designer
-3. 100Marks (Bangalore) - http://www.100marks.in (Web Programmer, PHP/Jquery/Ajax)  
-4. 3Crumbs / Justunfollow - http://justunfollow.com (iOS/Android/Python/NodeJS)
+#Bangalore
+----------
+1. http://www.100marks.in
+2. 
+
+#Gurgaon
+--------
+1. 24x7Table.com
+
+#Mumbai
+-------
+1. http://justunfollow.com
+
+#Noida
+------
+1. http://10Times.com
+2. 
+
+#Pune
+-----
+
+
 5. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner - Bangalore, Hyderabad)
 6. Absolute Habitats - http://absolutehabitats.com (Looking for freshers interested in kick-starting career in Real Estate Consulting and/or Digital Marketing, from Bangalore)
 7. AdNear - http://adnear.com/careers (Data Scientists & Engineers in Bangalore)
 8. AdPushup Inc. (Delhi) -  http://careers.adpushup.com (Data Scientists, Front End, Javascript Experts & other Smart people :) 
-9. Aikon Labs Pvt Ltd. (Pune) - Send CV at careers@aikonlabs.com 
-  (Job Profiles - (1) Java Developer Intern/ Trainee & (2) UI/UX Developer )
+9. Aikon Labs Pvt Ltd. (Pune) - Send CV at careers@aikonlabs.com (Job Profiles - (1) Java Developer Intern/ Trainee & (2) UI/UX Developer )
 10. AIndra Systems (Bangalore) -  http://aindra.in  AI and image recognition product development, early stage startup (Java/J2EE developer and all round smart developers.) Check out https://hasjob.co/view/80jlt?
 11. Aisle - Lead Ruby on Rails Developer | Startup4Me India ( Ruby on Rails devs, Community Managers, Startup Enthusiasts )
 12. AlumClub(Bangalore) - http://www.alumclub.net - Helps institutions to connect, engage and leverage their alma maters.
@@ -44,9 +61,8 @@ This repo will contain a readme file which will contain list of startups hiring 
 39. Crispify - Crispify | LinkedIn (We are looking for an Android geek whose first wife is Android! ;))
 40. CrowdStudio - Affordable design platform for startups.
 41. DailyRounds - http://www.dailyrounds.org The most talked about healthcare startup of India is hiring mobile developers - Contact - editor@dailyrounds.org
-42. Dakiyaa - Dakiyaa - Awesome Cards in Seconds -
-
-    Dhung - www.dhung.com - a tech startup to reduce information asymmetry in the career market
+42. Dakiyaa - Dakiyaa - Awesome Cards in Seconds
+43. Dhung - www.dhung.com - a tech startup to reduce information asymmetry in the career market
     Dakiyaa LLC - Awesome Cards in Seconds - a Mumbai Based startup. Apply at iPhone / Android Developer wanted for a startup in Mumbai, India 2 yrs min exp
     Dignitas Digital Pvt. Ltd. - Digital Marketing Co. looking for iOS Developer  Home – DD
     Dreamstarts.in http://www.dreamstarts.in/ India's leading job portal for Indian Startups.
@@ -206,11 +222,11 @@ This repo will contain a readme file which will contain list of startups hiring 
     Wowbox - http://getwowbox.com (talent@getwowbox.com)
     Xervmon- Hybrid Cloud Management Simplified
     Xtremum Solutions - http://www.xtremumsolutions.com (iPhone/Java/Cloud - Apply to careers AT xtremumsolutions DOT com)
-    YourSports - https://jobs.hasgeek.com/view/hf0f1 (PHP, Elastic Search, Javascript, Android, IPhone)
-    YourStory.in - http://yourstory.in/jobs-listing/ (A consolidated listing of Startup jobs in India)
-    Zaakpay - http://zaakpay.com/ ( Java - Apply to upasana or bipin AT zaakco DOT com)
-    Zeocode-  Careers at Zeocode (iOS Developer, Android Developer, & Marketing Intern)
-    Zomato - Careers | Zomato (Web/iOS/Android/Windows Phone/UI+UX)
-    FreeKaaMaal.com - India's Largest Bargain Hunting Site |  Looking for UI/UX designer in Noida http://freekaamaal.com/jobs
-    Zepo - Work with India's Fastest Growing Ecommerce Platform - hiring Business Development Executives across Mumbai, Delhi & Bangalore
-    Winni - Winni.in hiring for Web Development Engineer in Bangalore 
+  YourSports - https://jobs.hasgeek.com/view/hf0f1 (PHP, Elastic Search, Javascript, Android, IPhone)
+  YourStory.in - http://yourstory.in/jobs-listing/ (A consolidated listing of Startup jobs in India)
+  Zaakpay - http://zaakpay.com/ ( Java - Apply to upasana or bipin AT zaakco DOT com)
+  Zeocode-  Careers at Zeocode (iOS Developer, Android Developer, & Marketing Intern)
+  Zomato - Careers | Zomato (Web/iOS/Android/Windows Phone/UI+UX)
+  FreeKaaMaal.com - India's Largest Bargain Hunting Site |  Looking for UI/UX designer in Noida
+  Zepo - Work with India's Fastest Growing Ecommerce Platform - hiring Business Development Executives across Mumbai, Delhi & Bangalore
+  Winni - Winni.in hiring for Web Development Engineer in Bangalore 
