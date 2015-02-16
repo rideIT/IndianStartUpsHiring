@@ -9,53 +9,59 @@ This repo will contain a readme file which will contain list of startups hiring 
 
 #Bangalore
 1. http://www.100marks.in
-2. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner - Bangalore, Hyderabad)
 3. Absolute Habitats - http://absolutehabitats.com
-4. AdNear - http://adnear.com/careers (Data Scientists & Engineers in Bangalore)
-5. AIndra Systems (Bangalore) -  http://aindra.in  https://hasjob.co/view/80jlt?
-6. AlumClub(Bangalore) - http://www.alumclub.net 
-7. Appknox (Python Genius in Bangalore & Singapore) - MobileSecurity
+4. AdNear - http://adnear.com/careers (Data Scientists & Engineers
+5. AIndra Systems http://aindra.in  https://hasjob.co/view/80jlt?
+6. AlumClub - http://www.alumclub.net 
 8. Artoo (http://www.artoo.in/portal/Compa...
 9. Asteria Aerospace (https://www.gapjumpers.me/questions/asteria-aerospace/qs-17/)
-10. Attify Mobile Security (Security Ninja position in Bangalore)
-11. Aveda Wellness (CTO in Bangalore)- http://jobs.hasgeek.com/view/i79jt
-12. Winni - Winni.in hiring for Web Development Engineer in Bangalore 
+10. Attify Mobile Security (Security Ninja position)
+11. Aveda Wellness (CTO)- http://jobs.hasgeek.com/view/i79jt
+12. Winni - Winni.in hiring for Web Development Engineer
 13. Zeocode-  Careers at Zeocode (iOS Developer, Android Developer, & Marketing Intern)
 14. YourStory.in - http://yourstory.in/jobs-listing/ (A consolidated listing of Startup jobs in India)
 15. WorkMonk - http://workmonk.com/jobs (shoot us an email, we will figure out something)
-16. CipherGraph Networks (Bangalore): Cloud Security Gateway
+16. CipherGraph Networks: Cloud Security Gateway
 17. Gravity Consulting (http://www.gravityconsulting.com.au)
 18. Internet Treasures
-19. Myndbee, Inc. (Bangalore) - Looking for server-side engineers. Send an email to vish@myndbee.com to apply
-20. PanOrbit (Bangalore) : Marketing and Customer Management - PanOrbit - jobs@panorbit.in
+19. Myndbee, Inc. - Looking for server-side engineers. Send an email to vish@myndbee.com to apply
+20. PanOrbit : Marketing and Customer Management - PanOrbit - jobs@panorbit.in
 21. Prowareness
 22. Synup
 23. Tallenge
 
+#Bangalore + Singapore
+1. Appknox (Python Genius - MobileSecurity)
+
+#Bangalore + Chennai
+1. Bankbazaar 
+
 #Chennai
-1. Bankbazaar (Chennai/Bangalore) - http://www.bankbazaar.com/guide/...
-2. Cherrypick Technologies (Chennai) - Hiring Senior Developers. Email CV to careersATcherrypick.co.in
+1. Cherrypick Technologies - Hiring Senior Developers. Email CV to careersATcherrypick.co.in
 
 #Delhi
 1. AdPushup Inc. http://careers.adpushup.com (Data Scientists, Front End, Javascript Experts & other Smart people :) 
 2. Akosha (Delhi) - http://careers.akosha.com - Helps Indian consumers get their complaints resolved.  
 3. Zaakpay - http://zaakpay.com/ ( Java - Apply to upasana or bipin AT zaakco DOT com)
-4. Cardback (Delhi): Cardback helps you make better and smarter use of your credit, debit, prepaid and loyalty cards
-5. Colabcom Technologies - http://www.colabcom.in - a tech startup in the collaborative commerce space based out of New Delhi.
+4. Cardback: Cardback helps you make better and smarter use of your credit, debit, prepaid and loyalty cards
+5. Colabcom Technologies - http://www.colabcom.in
 6. WebsFort-a web marketplace delhi based start-up aims to simplify the process of website flipping.
 
 #Gurgaon
 1. 24x7Table.com
-2. Awesomebazar (Gurgaon ) - Awesome Bazar Jobs Available
-3. IndiaBookStore - Careers at IndiaBookStore | Jobs at IndiaBookStore | IndiaBookStore.net (Looking for Social Media Manager and Lead Software Engineer in Gurgaon)
-4. inFeedo (Gurgaon) - Recruiting the best designers and automation engineers in India. Visit our Careers Page to See Perks.
+2. Awesomebazar - Awesome Bazar Jobs Available
+3. IndiaBookStore 
+4. inFeedo - Recruiting the best designers and automation engineers in India. Visit our Careers Page to See Perks.
 5. OfficeDrop - Mobile developers and Project managers in Gurgaon. Email careers@officedrop.com
 
 #Hyderabad
 1. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner - Bangalore, Hyderabad)
-2. amgonna (Hyderabad) - Connect with and meet like-minded people over interesting activities: http://www.amgonna.com
-3. Catalyzer (Hyderabad) - User Experience Designer for Fiction Project. Our startups are Hiring! - Catalyzer Startup Accelerator.
-4. VioletStreet.com - Ruby on Rails Developer at Hyderabad with handsome salary & ESOPs. About, Team - VioletStreet.com 
+2. amgonna  - Connect with and meet like-minded people over interesting activities: http://www.amgonna.com
+3. Catalyzer  - User Experience Designer for Fiction Project. - Catalyzer Startup Accelerator.
+4. VioletStreet.com - Ruby on Rails Developer
+
+#Bangalore + Hyderabad
+1. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner)
 
 #Ludhiana + Chandigarh
 1. YourSports - https://jobs.hasgeek.com/view/hf0f1 (PHP, Elastic Search, Javascript, Android, IPhone)
@@ -64,33 +70,32 @@ This repo will contain a readme file which will contain list of startups hiring 
 1. http://justunfollow.com
 2. Appucino - Pluggable social network for mobile apps (http://games2winmedia.com/work-for-us/)
 3. BOX8 - Fastest growing food startup in India - http://box8.in
-4. Carnot (mumbai)- http://angel.co/carnot/jobs/108
+4. Carnot - http://angel.co/carnot/jobs/108
 5. Dakiyaa LLC - Awesome Cards in Seconds
 6. Ducktile Labs Pvt. Ltd.7. 
 7. FindURClass
 8. m.Paani- Innovative mobile-based loyalty programs for the mass market.
-9. The Porter (Mumbai) -  Online marketplace for logistics.
-10. Think Analytics India Pvt Ltd (Mumbai)  - http://thinkanalytics.in/-
+9. The Porter -  Online marketplace for logistics.
+10. Think Analytics India Pvt Ltd   - http://thinkanalytics.in/-
 
 #Noida
 1. http://10Times.com
 2. Applied Mobile Labs (Previously Voicetap) - Leaders in Mobile Education & Mobile based lead generation: http://www.amlpl.com/about.html
-3.   FreeKaaMaal.com - India's Largest Bargain Hunting Site |  Looking for UI/UX designer in Noida
-4.   Tailmill - tailmill We are a Noida based start-up
+3.   FreeKaaMaal.com - India's Largest Bargain Hunting Site |  Looking for UI/UX designer 
+4.   Tailmill 
 
 #Pune
 1. Aikon Labs Pvt Ltd. Send CV at careers@aikonlabs.com (1) Java Developer Intern/ Trainee & (2) UI/UX Developer
-2. Xtremum Solutions - http://www.xtremumsolutions.com (iPhone/Java/Cloud - Apply to careers AT xtremumsolutions DOT com)
-3. Livehealth - https://livehealth.in (Pune) Web and Python developers
+2. Xtremum Solutions - http://www.xtremumsolutions.com 
+3. Livehealth - https://livehealth.in Web and Python developers
 
 #Delhi + Mumbai
-1. http://LetsIntern.com (Delhi & Mumbai) http://www.facebook.com/note.php...
+1. http://LetsIntern.com http://www.facebook.com/note.php...
 
 #Bangalore + Delhi + Mumbai
 1. Zepo - Work with India's Fastest Growing Ecommerce Platform - hiring Business Development Executives
-2. 
 
-#Dont know which place
+#TODO- Find place and update
 1. Xervmon- Hybrid Cloud Management Simplified
 2. Wowbox - http://getwowbox.com (talent@getwowbox.com)
 3. Brightpod - Looking for a PHP Developer - Project Management Software for Marketing Teams
