@@ -57,10 +57,11 @@ Source of data: https://www.quora.com/Which-Indian-startups-are-hiring
 5. OfficeDrop - Mobile developers and Project managers in Gurgaon. Email careers@officedrop.com
 
 #Hyderabad
-1. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner - Bangalore, Hyderabad)
-2. amgonna  - Connect with and meet like-minded people over interesting activities: http://www.amgonna.com
-3. Catalyzer  - User Experience Designer for Fiction Project. - Catalyzer Startup Accelerator.
-4. VioletStreet.com - Ruby on Rails Developer
+1. rideIT.in - Android and Web developer
+2. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner - Bangalore, Hyderabad)
+3. amgonna  - Connect with and meet like-minded people over interesting activities: http://www.amgonna.com
+4. Catalyzer  - User Experience Designer for Fiction Project. - Catalyzer Startup Accelerator.
+5. VioletStreet.com - Ruby on Rails Developer
 
 #Bangalore + Hyderabad
 1. AapkaPainter - http://aapkapainter.com (Your Perfect Painting Partner)
